@@ -1,0 +1,40 @@
+﻿@using Dominio
+@{
+    ViewData["Title"] = "Mostrar Actividades por Categoría";
+}
+
+<h1>Listado de actividades por Categoría</h1>
+
+@{
+    List<Actividad> actividadesCategoria = ViewBag.ActividadesCategoria;
+    if (actividadesCategoria.Count > 0)
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Fecha</th>
+                    <th scope="col">Edad mínima</th>
+                    <th scope="col">Cantidad de Me Gusta</th>
+                    <th scope="col">Categoría</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Actividad item in actividadesCategoria)
+                {
+                    <tr>
+                        <td>@item.Nombre</td>
+                        <td>@item.Fecha.ToShortDateString()</td>
+                        <td>@item.EdadMinima</td>
+                        <td>@item.MeGusta</td>
+                        <td>@item.NombreCategoria()</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+            }
+            else
+            {
+                <p>No hay actividades entre esas fechas</p>
+            }
+}

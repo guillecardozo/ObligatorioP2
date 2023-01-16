@@ -1,0 +1,42 @@
+﻿@using Dominio
+@{
+    ViewData["Title"] = "Lista de Actividades por Categoría";
+}
+
+<h1>Lista de Actividades por Categoría</h1>
+
+@if (ViewBag.Mensaje != null)//Esto es el mensaje de confirmacion o error con color, el mensaje se escribe en el controlador
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.Mensaje
+    </div>
+}
+
+
+<form id="formulario" action="/Actividad/ListaActividadesDeCategoriaPorFecha" method="post">
+
+    <div>
+        <select class="form-select" aria-label="Default select example" name="nombreCategoria">
+                <option selected value="-1">Seleccione una categoría</option>
+                @foreach (Categoria item in @ViewBag.Categorias)
+                {
+                    <option value=@item.Nombre>@item.Nombre</option>
+                }
+            </select>
+    </div>
+
+    <div class="mb-3">
+        <label for="f1" class="form-label">Fecha Desde</label>
+        <input type="date" class="form-control" id="f1" name="f1" value="@ViewBag.Fecha1" placeholder="dd/mm/aaaa" required>
+    </div>
+
+    <div class="mb-3">
+        <label for="f2" class="form-label">Fecha Hasta</label>
+        <input type="date" class="form-control" id="f2" name="f2" value="@ViewBag.Fecha2" placeholder="dd/mm/aaaa" required>
+    </div>
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Buscar</button>
+    </div>
+
+</form>

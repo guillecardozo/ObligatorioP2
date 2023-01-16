@@ -1,0 +1,34 @@
+﻿@using Dominio
+
+@{
+    ViewData["Title"] = "Dar Me Gusta";
+}
+
+<h1>Dar me gusta</h1>
+
+
+<form id="formulario" action="/Actividad/DarMeGusta" method="post">
+
+
+    <div class="mb-3">
+        <label for="id" class="form-label">Id</label>
+        <input type="number" class="form-control" id="id" name="id" value="@ViewBag.Id" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label for="nombre" class="form-label">Nombre</label>
+        <input type="text" class="form-control" id="nombre" name="nombre" value="@ViewBag.Nombre" readonly />
+    </div>
+
+    <div class="mb-3">
+        <label for="fecha" class="form-label">Fecha</label>
+        <input type="datetime" class="form-control" id="fecha" name="fecha" value="@ViewBag.Fecha" readonly />
+    </div>
+
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Me Gusta</button>
+    </div>
+
+</form>
+    

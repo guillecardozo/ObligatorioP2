@@ -1,0 +1,386 @@
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.exe
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.deps.json
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.runtimeconfig.json
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.runtimeconfig.dev.json
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.pdb
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.Views.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.Views.pdb
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Dominio.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\bin\Release\netcoreapp3.1\Dominio.pdb
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.csproj.AssemblyReference.cache
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.AssemblyInfoInputs.cache
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.AssemblyInfo.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.csproj.CoreCompileInputs.cache
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.RazorAssemblyInfo.cache
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.RazorAssemblyInfo.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\staticwebassets\Obligatorio02.StaticWebAssets.Manifest.cache
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\staticwebassets\Obligatorio02.StaticWebAssets.xml
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\scopedcss\bundle\Obligatorio02.styles.css
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.TagHelpers.input.cache
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.TagHelpers.output.cache
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.RazorCoreGenerate.cache
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\DarMeGusta.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListaActividadesDeCategoriaPorFecha.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListaActividadesPorLugar.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListaActividadUsuarioAnonimo.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListaActividadUsuarioCliente.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\MostrarActividadesPorCategoria.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\MostrarActividadesPorLugar.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\CancelarCompra.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\Comprar.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\ComprasMayorValor.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\ComprasPorFecha.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\DatosDeCompras.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\MostrarComprasPorFecha.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Usuario\InicioBienvenida.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Usuario\ListaClientes.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Usuario\Registrarse.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.RazorTargetAssemblyInfo.cache
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.RazorTargetAssemblyInfo.cs
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.Views.pdb
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.csproj.CopyComplete
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.dll
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.pdb
+C:\Users\Martín\Desktop\Entrega Oficial\Obligatorio02\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.genruntimeconfig.cache
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.exe
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.deps.json
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.runtimeconfig.json
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.runtimeconfig.dev.json
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.pdb
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.Views.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.Views.pdb
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Dominio.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Dominio.pdb
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.RazorAssemblyInfo.cache
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.RazorAssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\staticwebassets\Obligatorio02.StaticWebAssets.Manifest.cache
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\staticwebassets\Obligatorio02.StaticWebAssets.xml
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\scopedcss\bundle\Obligatorio02.styles.css
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.TagHelpers.input.cache
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.TagHelpers.output.cache
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.RazorCoreGenerate.cache
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\DarMeGusta.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListaActividadesDeCategoriaPorFecha.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListaActividadesPorLugar.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListaActividadUsuarioAnonimo.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListaActividadUsuarioCliente.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\MostrarActividadesPorCategoria.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\MostrarActividadesPorLugar.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\CancelarCompra.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\Comprar.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\ComprasMayorValor.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\ComprasPorFecha.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\DatosDeCompras.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\MostrarComprasPorFecha.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Usuario\InicioBienvenida.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Usuario\ListaClientes.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Usuario\Registrarse.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.RazorTargetAssemblyInfo.cache
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.RazorTargetAssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.Views.pdb
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.csproj.CopyComplete
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.dll
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.pdb
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.genruntimeconfig.cache
+C:\Users\Juan Pablo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\Defensa.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.exe
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.deps.json
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.runtimeconfig.json
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.runtimeconfig.dev.json
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.pdb
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.Views.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Obligatorio02.Views.pdb
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Dominio.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\bin\Release\netcoreapp3.1\Dominio.pdb
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.csproj.AssemblyReference.cache
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.AssemblyInfoInputs.cache
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.AssemblyInfo.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.csproj.CoreCompileInputs.cache
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.RazorAssemblyInfo.cache
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.RazorAssemblyInfo.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\staticwebassets\Obligatorio02.StaticWebAssets.Manifest.cache
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\staticwebassets\Obligatorio02.StaticWebAssets.xml
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\scopedcss\bundle\Obligatorio02.styles.css
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.TagHelpers.input.cache
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.TagHelpers.output.cache
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.RazorCoreGenerate.cache
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\DarMeGusta.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\Defensa.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListaActividadesDeCategoriaPorFecha.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListaActividadesPorLugar.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListaActividadUsuarioAnonimo.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\ListaActividadUsuarioCliente.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\MostrarActividadesPorCategoria.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Actividad\MostrarActividadesPorLugar.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\CancelarCompra.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\Comprar.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\ComprasMayorValor.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\ComprasPorFecha.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\DatosDeCompras.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Compra\MostrarComprasPorFecha.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Usuario\InicioBienvenida.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Usuario\ListaClientes.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\Usuario\Registrarse.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.RazorTargetAssemblyInfo.cache
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.RazorTargetAssemblyInfo.cs
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.Views.pdb
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.csproj.CopyComplete
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.dll
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.pdb
+C:\Users\Cardozo\Desktop\Obligatorio 2 P2 N2D Cardozo, Gagliardi, Pereira\Obligatorio02\obj\Release\netcoreapp3.1\Obligatorio02.genruntimeconfig.cache

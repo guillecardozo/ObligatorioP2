@@ -1,0 +1,40 @@
+﻿@using Dominio
+@model Compra
+
+@{
+    ViewData["Title"] = "Comprar Actividad";
+}
+
+<h1>Comprar actividad</h1>
+
+@if (ViewBag.Mensaje != null)//Esto es el mensaje de confirmacion o error con color, el mensaje se escribe en el controlador
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.Mensaje
+    </div>
+}
+
+<form id="formulario" action="/Compra/Comprar" method="post">
+
+
+    <div class="mb-3">
+        <label for="id" class="form-label">Id</label>
+        <input type="number" class="form-control" id="id" name="id" value="@ViewBag.Id" readonly>
+    </div>
+
+    <div class="mb-3">
+        <label for="nombre" class="form-label">Nombre Actividad</label>
+        <input type="text" class="form-control" id="nombre" name="nombre" value="@ViewBag.Nombre" readonly>
+    </div>
+
+    <div class="mb-3">
+        <label for="cantidadEntradas" class="form-label">Cantidad Entradas</label>
+        <input type="text" class="form-control" id="cantidadEntradas" name="cantidadEntradas" value="@Model.CantidadEntradas">
+    </div>
+
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Comprar</button>
+    </div>
+
+</form>

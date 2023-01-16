@@ -1,0 +1,37 @@
+﻿@using Dominio 
+@{
+    ViewData["Title"] = "Mostrar Actividades por Lugar";
+}
+
+<h1>Listado de actividades por Lugar</h1>
+
+@{
+    List<Actividad> actividadesLugar = ViewBag.ActividadesLugar;
+    if (actividadesLugar.Count > 0)
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Fecha</th>
+                    <th scope="col">Edad mínima</th>
+                    <th scope="col">Cantidad de Me Gusta</th>
+                    <th scope="col">Categoría</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Actividad item in actividadesLugar)
+                {
+                    <tr>
+                        <td>@item.Nombre</td>
+                        <td>@item.Fecha.ToShortDateString()</td>
+                        <td>@item.EdadMinima</td>
+                        <td>@item.MeGusta</td>
+                        <td>@item.NombreCategoria()</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+}
+

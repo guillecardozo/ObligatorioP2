@@ -1,0 +1,43 @@
+﻿@using Dominio
+@{
+    ViewData["Title"] = "Mostrar Compras por fecha";
+}
+
+<h1>Mostrar Compras por fecha</h1>
+
+@{
+    List<Compra> comprasPorFecha = ViewBag.CompraPorFecha;
+    if (comprasPorFecha.Count > 0)
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Usuario</th>
+                    <th scope="col">Cantidad entradas</th>
+                    <th scope="col">Actividad</th>
+                    <th scope="col">Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Compra item in comprasPorFecha)
+                {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.NombreUsuarioConectado()</td>
+                    <td>@item.CantidadEntradas</td>
+                    <td>@item.NombreActividad()</td>
+                    <td>@item.TotalDeCompra()</td>
+                </tr>
+                }
+
+
+
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Error de fecha</p>
+    }
+}

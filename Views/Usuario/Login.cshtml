@@ -1,0 +1,35 @@
+﻿@using Dominio
+@{
+    ViewData["Title"] = "Login";
+}
+
+@if (ViewBag.Mensaje != null)//Esto es el mensaje de confirmacion o error con color, el mensaje se escribe en el controlador
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.Mensaje
+    </div>
+}
+
+
+<form action="/Usuario/Login" method="post">
+    <div class="mb-3">
+        <label for="nombreUsuario" class="form-label">Usuario</label>
+        <input type="text" class="form-control" id="nombreUsuario" name="nombreUsuario" value="@ViewBag.NombreUsuario">
+    </div>
+
+    <div class="mb-3">
+        <label for="contrasenia" class="form-label">Contraseña</label>
+        <input type="password" class="form-control" id="contrasenia" name="contrasenia" value="@ViewBag.Contrasenia">
+    </div><br />
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Iniciar Sesión</button>
+    </div><br />
+
+    <div class="col-12">
+        <a href="/Usuario/Registrarse/">Registrarse</a>
+    </div>
+    <div class="col-12">
+        <a href="/Actividad/Defensa/">Acceso defensa</a>
+    </div>
+</form>

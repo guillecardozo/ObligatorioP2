@@ -1,0 +1,49 @@
+﻿@using Dominio
+
+@{
+    ViewData["Title"] = "Registrarse";
+}
+
+@if (ViewBag.Mensaje != null)//Esto es el mensaje de confirmacion o error con color, el mensaje se escribe en el controlador
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.Mensaje
+    </div>
+}
+
+
+<form action="/Usuario/Registrarse" method="post">
+    <div class="mb-3">
+        <label for="nombre" class="form-label">Nombre</label>
+        <input type="text" class="form-control" id="nombre" name="nombre" value="@ViewBag.Nombre" required >
+    </div>
+
+    <div class="mb-3">
+        <label for="apellido" class="form-label">Apellido</label>
+        <input type="text" class="form-control" id="apellido" name="apellido" value="@ViewBag.Apellido" required>
+    </div>
+
+    <div class="mb-3">
+        <label for="fechaNacimiento" class="form-label">Fecha de Nacimiento</label>
+        <input type="date" class="form-control" id="fechaNacimiento" name="fechaNacimiento" value="@ViewBag.FechaNacimiento" placeholder="dd/mm/aaaa" required>
+    </div>
+
+    <div class="mb-3">
+        <label for="email" class="form-label">E-mail</label>
+        <input type="text" class="form-control" id="email" name="email" value="@ViewBag.Email" required>
+    </div>
+
+    <div class="mb-3">
+        <label for="nombreUsuario" class="form-label">Nombre de usuario</label>
+        <input type="text" class="form-control" id="nombreUsuario" name="nombreUsuario" value="@ViewBag.NombreUsuario" required>
+    </div>
+
+    <div class="mb-3">
+        <label for="contrasenia" class="form-label">Contraseña</label>
+        <input type="password" class="form-control" id="contrasenia" name="contrasenia" value="@ViewBag.Contrasenia" required>
+    </div>
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Registrarse</button>
+    </div>
+</form>

@@ -1,0 +1,25 @@
+﻿@using Dominio
+@{
+    ViewData["Title"] = "Lista de Actividades por Lugar";
+}
+
+<h1>Lista de Actividades por Lugar</h1>
+
+
+<form id="formulario" action="/Actividad/ListaActividadesPorLugar" method="post">
+
+    <div>
+        <select name="nombreLugar">
+            <option selected value="-1">Seleccione un lugar</option>
+            @foreach (Lugar item in @ViewBag.Lugares)
+            {
+                <option value=@item.Nombre>@item.Nombre</option>
+            }
+        </select>
+    </div>
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Buscar</button>
+    </div>
+
+</form>

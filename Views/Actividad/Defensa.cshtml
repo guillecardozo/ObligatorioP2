@@ -1,0 +1,56 @@
+﻿@using Dominio;
+
+<h1>Probando la defensa</h1>
+
+<form id="formulario" action="/Actividad/Defensa" method="post">
+
+
+    <div class="mb-3">
+        <label for="nombre" class="form-label">Ingrese Filtro</label>
+        <input type="text" class="form-control" id="nombre" name="nombre" value="@ViewBag.Nombre" >
+    </div>
+
+
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Ejecutar</button>
+    </div>
+
+</form>
+
+@if (@ViewBag.Metodo != null)
+{
+    List<Actividad> actividadesLugar = ViewBag.Metodo;
+    if (actividadesLugar.Count > 0)
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Fecha</th>
+                    <th scope="col">Edad mínima</th>
+                    <th scope="col">Cantidad de Me Gusta</th>
+                    <th scope="col">Categoría</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Actividad item in actividadesLugar)
+                {
+                    <tr>
+                        <td>@item.Nombre</td>
+                        <td>@item.Fecha.ToShortDateString()</td>
+                        <td>@item.EdadMinima</td>
+                        <td>@item.MeGusta</td>
+                        <td>@item.NombreCategoria()</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+}
+
+
+
+    <div class="col-12">
+        <a href="/Usuario/Login">Volver al inicio</a>
+    </div>
